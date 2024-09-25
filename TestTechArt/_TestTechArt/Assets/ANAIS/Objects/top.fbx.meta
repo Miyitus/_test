@@ -1,0 +1,294 @@
+fileFormatVersion: 2
+guid: 57a841a95b71dcb4eb090469d880dfb7
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      74: 5324560123025192016
+    second: Gift.001|Camera|ArmatureAction
+  - first:
+      74: -8144735808360301392
+    second: Gift.001|Camera|ArmatureAction.001
+  - first:
+      74: -7693758972697780404
+    second: Gift.001|Camera|ArmatureAction.002
+  - first:
+      74: 6676026546961776738
+    second: Gift.001|Camera|ArmatureAction.003
+  - first:
+      74: 7862393429940302587
+    second: Gift.001|Camera|ArmatureAction.004
+  - first:
+      74: -2454280910427676177
+    second: Gift.001|Camera|ArmatureAction.005
+  - first:
+      74: 1125136320810480038
+    second: Gift.001|Camera|Jump Forward_no movement
+  - first:
+      74: 7082929853259687233
+    second: Gift.001|Cube_gift.000|ArmatureAction
+  - first:
+      74: -3836333748601344711
+    second: Gift.001|Cube_gift.000|ArmatureAction.001
+  - first:
+      74: -7862523086755581486
+    second: Gift.001|Cube_gift.000|ArmatureAction.002
+  - first:
+      74: -9106565492921166703
+    second: Gift.001|Cube_gift.000|ArmatureAction.003
+  - first:
+      74: 1861199627093306054
+    second: Gift.001|Cube_gift.000|ArmatureAction.004
+  - first:
+      74: 2863438726630891886
+    second: Gift.001|Cube_gift.000|ArmatureAction.005
+  - first:
+      74: 8529440611304955325
+    second: Gift.001|Cube_gift.000|Jump Forward_no movement
+  - first:
+      74: 3066496605144955386
+    second: Gift.001|Cube_gift.001|ArmatureAction
+  - first:
+      74: -7673200942337073734
+    second: Gift.001|Cube_gift.001|ArmatureAction.001
+  - first:
+      74: 1463403021333354560
+    second: Gift.001|Cube_gift.001|ArmatureAction.002
+  - first:
+      74: 7430052340261549060
+    second: Gift.001|Cube_gift.001|ArmatureAction.003
+  - first:
+      74: -6848974987246545310
+    second: Gift.001|Cube_gift.001|ArmatureAction.004
+  - first:
+      74: 1241896553969712229
+    second: Gift.001|Cube_gift.001|ArmatureAction.005
+  - first:
+      74: -2236776517953864214
+    second: Gift.001|Cube_gift.001|Jump Forward_no movement
+  - first:
+      74: -4297761554131167186
+    second: Gift.001|Cube_gift.002|ArmatureAction
+  - first:
+      74: 4832671439112572371
+    second: Gift.001|Cube_gift.002|ArmatureAction.001
+  - first:
+      74: 5990278394806769374
+    second: Gift.001|Cube_gift.002|ArmatureAction.002
+  - first:
+      74: 9212218825075897880
+    second: Gift.001|Cube_gift.002|ArmatureAction.003
+  - first:
+      74: 958198863486723345
+    second: Gift.001|Cube_gift.002|ArmatureAction.004
+  - first:
+      74: -3052742489766728749
+    second: Gift.001|Cube_gift.002|ArmatureAction.005
+  - first:
+      74: -8672182554030510482
+    second: Gift.001|Cube_gift.002|Jump Forward_no movement
+  - first:
+      74: -2810355308601494439
+    second: Gift.001|Cube_gift.003|ArmatureAction
+  - first:
+      74: -6790750942907113896
+    second: Gift.001|Cube_gift.003|ArmatureAction.001
+  - first:
+      74: 6886153449139489084
+    second: Gift.001|Cube_gift.003|ArmatureAction.002
+  - first:
+      74: 2527147479974220065
+    second: Gift.001|Cube_gift.003|ArmatureAction.003
+  - first:
+      74: -4140351212730124563
+    second: Gift.001|Cube_gift.003|ArmatureAction.004
+  - first:
+      74: -1527967660673725458
+    second: Gift.001|Cube_gift.003|ArmatureAction.005
+  - first:
+      74: -8572077652307219236
+    second: Gift.001|Cube_gift.003|Jump Forward_no movement
+  - first:
+      74: -1552160672571190690
+    second: Gift.001|Cube_gift.004|ArmatureAction
+  - first:
+      74: -2226743751899314000
+    second: Gift.001|Cube_gift.004|ArmatureAction.001
+  - first:
+      74: -4553907431391639816
+    second: Gift.001|Cube_gift.004|ArmatureAction.002
+  - first:
+      74: 3762863873994933093
+    second: Gift.001|Cube_gift.004|ArmatureAction.003
+  - first:
+      74: 6351793684802825808
+    second: Gift.001|Cube_gift.004|ArmatureAction.004
+  - first:
+      74: 425800197096895614
+    second: Gift.001|Cube_gift.004|ArmatureAction.005
+  - first:
+      74: -2169688833293175281
+    second: Gift.001|Cube_gift.004|Jump Forward_no movement
+  - first:
+      74: 2430515062285032087
+    second: Gift.001|Cube_gift.005|ArmatureAction
+  - first:
+      74: -2201371608930136914
+    second: Gift.001|Cube_gift.005|ArmatureAction.001
+  - first:
+      74: -5925605837210140592
+    second: Gift.001|Cube_gift.005|ArmatureAction.002
+  - first:
+      74: 2112969478648082634
+    second: Gift.001|Cube_gift.005|ArmatureAction.003
+  - first:
+      74: 2688001516871185007
+    second: Gift.001|Cube_gift.005|ArmatureAction.004
+  - first:
+      74: 7774416013502369934
+    second: Gift.001|Cube_gift.005|ArmatureAction.005
+  - first:
+      74: 5287406182910942291
+    second: Gift.001|Cube_gift.005|Jump Forward_no movement
+  - first:
+      74: 7286304165330884481
+    second: Gift.001|Cube_gift.006|ArmatureAction
+  - first:
+      74: -9086479751205439830
+    second: Gift.001|Cube_gift.006|ArmatureAction.001
+  - first:
+      74: -585459090661604042
+    second: Gift.001|Cube_gift.006|ArmatureAction.002
+  - first:
+      74: -5263521527840206587
+    second: Gift.001|Cube_gift.006|ArmatureAction.003
+  - first:
+      74: 1521045079691037222
+    second: Gift.001|Cube_gift.006|ArmatureAction.004
+  - first:
+      74: 7079380973916001424
+    second: Gift.001|Cube_gift.006|ArmatureAction.005
+  - first:
+      74: -2303175520481410979
+    second: Gift.001|Cube_gift.006|Jump Forward_no movement
+  - first:
+      74: -4325495034020138915
+    second: Gift.001|Cube_gift.007|ArmatureAction
+  - first:
+      74: 9002001960542645446
+    second: Gift.001|Cube_gift.007|ArmatureAction.001
+  - first:
+      74: 117263523802025184
+    second: Gift.001|Cube_gift.007|ArmatureAction.002
+  - first:
+      74: -3527622824836108676
+    second: Gift.001|Cube_gift.007|ArmatureAction.003
+  - first:
+      74: 7236080257759402320
+    second: Gift.001|Cube_gift.007|ArmatureAction.004
+  - first:
+      74: 4651718893277394689
+    second: Gift.001|Cube_gift.007|ArmatureAction.005
+  - first:
+      74: -4919346081089771816
+    second: Gift.001|Cube_gift.007|Jump Forward_no movement
+  - first:
+      74: 3996588701670046247
+    second: Gift.001|Gift.001Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
